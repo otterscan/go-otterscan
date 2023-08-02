@@ -1,0 +1,1 @@
+import{r as t,j as r}from"./index-1a1a81e1.js";const s=()=>t.useState(null),e=t.createContext(null),c=()=>t.useContext(e),a=({children:n})=>{const o=s();return r.jsx(e.Provider,{value:o,children:n})};export{a as S,c as u};

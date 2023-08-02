@@ -1,0 +1,1 @@
+import{R as c,j as s}from"./index-1a1a81e1.js";const e=({title:o,children:a})=>s.jsxs("div",{className:"grid grid-cols-4 py-4 text-sm",children:[s.jsxs("div",{children:[o,":"]}),s.jsx("div",{className:"col-span-3",children:a})]}),t=c.memo(e);export{t as I};

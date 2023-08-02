@@ -1,0 +1,1 @@
+import{R as o,j as e}from"./index-1a1a81e1.js";import{b as r}from"./use4Bytes-772ec269.js";const l=({data:t})=>{const[s,m,a]=r(t);return e.jsx("div",{className:`${s?"bg-amber-100":"bg-blue-50"} flex min-h-full max-w-max items-baseline rounded-lg px-3 py-1 text-xs`,children:e.jsx("p",{className:"truncate",title:a,children:m})})},x=o.memo(l);export{x as M};

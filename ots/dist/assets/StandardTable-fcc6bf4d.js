@@ -1,0 +1,1 @@
+import{j as t}from"./index-1a1a81e1.js";const a=({children:e})=>t.jsx("table",{className:"w-full table-fixed border-t border-b border-gray-200 px-2 py-2 text-left text-sm [&>*>tr]:items-baseline",children:e});export{a as S};

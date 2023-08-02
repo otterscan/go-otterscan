@@ -1,0 +1,6 @@
+[submodule "otterscan"]
+	path = otterscan
+	url = https://github.com/otterscan/otterscan.git
+[submodule "otterscan-assets"]
+	path = otterscan-assets
+	url = https://github.com/otterscan/otterscan-assets.git
