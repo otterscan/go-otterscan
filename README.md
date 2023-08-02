@@ -18,6 +18,6 @@ For every Otterscan release, update the `otterscan` submodule to the proper git 
 
 Every time the external static assets distribution for Otterscan changes, update the `otterscan-assets` submodule to the proper git tag and regenerate the embeddable assets by:
 
-1 - Regenerate the embedded chains metadata using the `scripts/build-chains.sh` script.
-2 - Rebuild the `zstd` dictionary for 4bytes/topic0 signatures using the `scripts/build-dict.sh` script.
-3 - Regenerate the compressed embeddable 4bytes/topic0 data using the `go run ./cmd/gen` command.
+1. Regenerate the embedded chains metadata using the `scripts/build-chains.sh` script.
+2. Rebuild the `zstd` dictionary for 4bytes/topic0 signatures using the `scripts/build-dict.sh` script.
+3. Regenerate the compressed embeddable 4bytes/topic0 data using the `go run ./cmd/gen` command.
