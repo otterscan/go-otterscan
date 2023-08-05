@@ -1,0 +1,1 @@
+import{u as i,j as a}from"./index-d140faa6.js";import{N as n}from"./NativeTokenAmount-c38f0c71.js";import{F as r}from"./FiatValue-f28f3f13.js";const x=({value:s,blockTag:e="latest",...o})=>{const t=i(s,e);return a.jsxs("span",{className:"space-x-2",children:[a.jsx(n,{value:s}),t&&a.jsx(r,{value:t,...o})]})};export{x as N};

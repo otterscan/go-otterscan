@@ -1,1 +1,0 @@
-import{r as n,c as r,j as s}from"./index-1a1a81e1.js";import{F as m}from"./FormattedBalance-4d723175.js";const i=({value:o,hideUnit:t})=>{const{nativeCurrency:{symbol:e,decimals:a}}=r();return s.jsx("span",{className:`text-sm ${o.isZero()?"opacity-30":""}`,children:s.jsx(m,{value:o,decimals:a,symbol:t?void 0:e})})},x=n.memo(i);export{x as N};

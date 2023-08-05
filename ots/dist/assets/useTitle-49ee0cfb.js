@@ -1,1 +1,0 @@
-import{r as e,f as a}from"./index-1a1a81e1.js";const i=t=>{e.useEffect(()=>{document.title=`Block #${a(t)} | Otterscan`},[t])},f=(t,c,s)=>{e.useEffect(()=>{t!==void 0&&(document.title=`Block #${a(t)} Txns | Page ${c}${s===void 0?"":"/"+s} | Otterscan`)},[t])};export{f as a,i as u};

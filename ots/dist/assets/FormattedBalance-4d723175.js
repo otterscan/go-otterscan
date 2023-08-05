@@ -1,1 +1,0 @@
-import{r as n,X as o,j as e}from"./index-1a1a81e1.js";const c=18,d=({value:r,decimals:s=c,symbol:a})=>{const t=o(r,s);return e.jsxs("span",{title:`${t} ${a!==void 0?a:""}`,children:[e.jsx("span",{className:"font-balance",children:t}),a!==void 0&&` ${a}`]})},m=n.memo(d);export{m as F};

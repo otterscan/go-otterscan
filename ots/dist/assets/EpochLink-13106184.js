@@ -1,1 +1,0 @@
-import{f as a,j as s,N as n,a2 as o,F as i,ay as l}from"./index-1a1a81e1.js";const x=({epochNumber:e})=>{let t=a(e);return s.jsxs(n,{className:"flex items-baseline space-x-1 font-blocknum text-link-blue hover:text-link-blue-hover",to:o(e),children:[s.jsx(i,{className:"self-center",icon:l,size:"1x"}),s.jsx("span",{children:t})]})};export{x as E};
